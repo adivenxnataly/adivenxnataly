@@ -4,7 +4,7 @@
 <p align="left"> 
 <img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="100%"></p>
 
-### [About Me](https://adivenxnataly.github.com)
+### [About Me](https://adivenxnataly.github.io)
 <p align="left">
   Hello, I'm Adinata 
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
