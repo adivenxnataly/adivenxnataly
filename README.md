@@ -1,24 +1,16 @@
-# Hi, I'm Adinata 👋🏻
+<div>
+<img width="50%" src="https://github.com/adivenxnataly/adivenxnataly.github.io/blob/main/files/src/chd.gif"><img width="50%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/nadeshiko-kagamihara-yuru-camp.gif" alt="Nadeshiko Kagamihara-chan">
+</div>
+<p align="left"> 
+<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="100%"></p>
 
-<p align="center" width="100%">
-  <img width="100%" border-radius="100%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/nadeshiko-kagamihara-yuru-camp.gif" alt="Nadeshiko Kagamihara-chan">
+### [About Me](https://adivenxnataly.github.com)
+<p align="left">
+  Hello, I'm Adinata 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 </p>
 
-I'm just someone who learns programming languages, for now I only do simple projects such as with **scripting language** like [Shell](https://github.com/adivenxnataly?tab=repositories&q=&type=&language=shell&sort=) or [JavaScript](https://github.com/adivenxnataly?tab=repositories&q=&type=&language=javascript&sort=), this is because of the limited devices (I don't have a computer yet) I only use Android and Termux.
+I'm just someone who learns programming languages, including Web development, App development, and Android system development.
 
-### OS & Tools
-
-<div style="position: flex;">
-  <img width="5%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/svg/android.svg">
-  <img width="5%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/svg/termux.png">
-  <img width="5%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/svg/magisk.png">
- 
-</div>
-
-### Languages
-<div style="position: flex;">
-  <img width="5%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/svg/bash.png">
-  <img width="5%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/svg/javascript.svg">
-  <img width="5%" src="https://github.com/adivenxnataly/adivenxnataly/blob/main/assets/svg/python.svg">
- 
-</div>
+### Languages, Tools & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=bash,c,java,js,py,git,github,npm,nodejs,tailwind)](https://skillicons.dev)
