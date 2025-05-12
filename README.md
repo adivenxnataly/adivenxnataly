@@ -13,4 +13,4 @@
 I'm just someone who learns programming languages, including Web development, App development, and Android system development.
 
 ### Languages, Tools & Frameworks
-[![My Skills](https://skillicons.dev/icons?i=bash,c,java,js,py,git,github,npm,nodejs,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,java,js,kotlin,py,git,github,npm,nodejs,tailwind)](https://skillicons.dev)
